@@ -9,7 +9,8 @@ The pacman agent scenarios is solved based on general search algorithm implement
 Each of these implementations have different outcomes toward the pacman. 
 
 
-** Usage **
+** Usage: **
+
 1. Clone the repository
 2. Run the program through terminal 
 ```
